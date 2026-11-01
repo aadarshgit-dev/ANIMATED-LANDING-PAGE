@@ -1,6 +1,8 @@
-# Animated Landing Page
+# Scrollify – Animated Landing Page
 
-A modern and interactive landing page built using HTML, CSS, JavaScript and GSAP. This project focuses on smooth animations, engaging transitions and an improved user experience through motion design.
+Scrollify is a modern and interactive landing page built using HTML, CSS, JavaScript and GSAP. It focuses on smooth animations, engaging transitions and an immersive user experience through motion design.
+
+🌐 **Live Demo:** https://scrollify.onrender.com
 
 ## Features
 
@@ -33,7 +35,7 @@ git clone https://github.com/aadarshgit-dev/ANIMATED-LANDING-PAGE.git
 cd ANIMATED-LANDING-PAGE
 ```
 
-### Run the project
+### Run locally
 
 Open `index.html` in your browser or use the Live Server extension in VS Code.
 
@@ -45,9 +47,14 @@ Open `index.html` in your browser or use the Live Server extension in VS Code.
 - Using JavaScript to create interactive web experiences.
 - Improving UI/UX through motion design.
 
+## Live Preview
+
+Check out the deployed project:
+
+**[Scrollify – Live Website](https://scrollify.onrender.com)**
+
 ## Author
 
 **Aadarsh Dhiman**
 
-- GitHub: https://github.com/aadarshgit-dev
-
+- GitHub: [aadarshgit-dev](https://github.com/aadarshgit-dev)
